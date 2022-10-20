@@ -2,8 +2,6 @@
 
 /// ESM.sol
 
-// Copyright (C) 2019-2022 Dai Foundation
-
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
@@ -40,7 +38,7 @@ contract ESM {
 
     uint256 constant WAD = 10 ** 18;
 
-    GemLike public immutable gem;   // collateral (MKR token)
+    GemLike public immutable gem;   // collateral (GOV token)
     address public immutable proxy; // Pause proxy
 
     mapping(address => uint256) public wards; // auth

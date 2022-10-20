@@ -2,8 +2,7 @@
 
 /// ESM.t.sol
 
-// Copyright (C) 2019-2021 Maker Ecosystem Growth Holdings, INC.
-// Copyright (C) 2021-2022 Dai Foundation
+// Copyright (C) 2022 MetricOne Ecosystem Growth Holdings, INC.
 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
